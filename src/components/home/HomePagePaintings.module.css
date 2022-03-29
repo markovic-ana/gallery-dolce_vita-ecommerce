@@ -1,0 +1,17 @@
+.container {
+  background: url(/Users/ana/Documents/Projects/gallery-dolce_vita-ecommerce-app/src/assets/images/pexels-steve-johnson-1572386.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+  height: 100vh;
+}
+
+.text {
+  background-color: rgba(255, 255, 255, 0.616);
+  padding: 35px;
+  text-align: center;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 2px;
+}
